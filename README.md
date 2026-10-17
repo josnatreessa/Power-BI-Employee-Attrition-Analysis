@@ -1,51 +1,62 @@
-📊 Employee Attrition Analysis | Power BI
+📊 Employee Attrition Analysis Dashboard | Power BI
 
-Turning Workforce Data into Actionable HR Insights
+Turning Employee Data into Actionable Workforce Insights
 
 📌 Project Overview
 
-Employee attrition is an important workforce challenge that can affect organizational stability, productivity, and employee retention. This project uses Microsoft Power BI to explore employee attrition patterns and identify workforce characteristics associated with employees leaving an organization.
+Employee attrition is an important challenge for organizations because workforce turnover can affect productivity, employee retention, and business continuity.
 
-The dashboard transforms employee data into interactive visual insights, helping users explore attrition across job roles, job levels, job satisfaction, work-life balance, age groups, and other workforce dimensions.
+This project uses Microsoft Power BI to analyze employee attrition and explore workforce patterns across different employee characteristics and job-related factors. The interactive, multi-page dashboard presents key performance indicators (KPIs) and visualizations to help users investigate employee departures and workforce trends.
 
 🎯 Project Objectives
 
-- Analyze employee attrition patterns across different workforce categories.
-- Explore the relationship between job satisfaction, work-life balance, and employee turnover.
-- Compare attrition across job levels, job roles, and demographic groups.
-- Build an interactive, multi-page dashboard for exploring HR data.
-- Present workforce insights through clear and meaningful visualizations.
+- Analyze employee attrition across departments and job roles.
+- Explore attrition patterns across job levels and demographic groups.
+- Investigate job satisfaction and work-life balance in relation to attrition.
+- Examine workforce patterns across different age groups.
+- Develop an interactive dashboard for exploring HR data.
+- Communicate analytical findings through clear and meaningful visualizations.
 
 🛠️ Tools & Technologies
 
 - Microsoft Power BI Desktop — Dashboard development and data visualization
-- Power Query — Data preparation and transformation
-- DAX — Measures and calculations
-- Data Visualization — KPI cards, charts, matrix visuals, and interactive slicers
+- Power Query — Data cleaning and transformation
+- DAX — Measures and KPI calculations
+- Data Visualization — KPI cards, bar charts, column charts, doughnut charts, and matrix visuals
+- Interactive Reporting — Slicers and synchronized page filters
 
-📈 Dashboard Highlights
+📈 Key Dashboard Features
 
 1. Workforce Overview
 
-- Total employee count
-- Employees who left the organization
-- Employee attrition rate
-- Average employee age
-- Employees remaining in the organization
+The first dashboard page provides a high-level overview of the workforce, including:
 
-2. Attrition Analysis
+- Total Employees
+- Employees Who Left
+- Attrition Rate
+- Average Employee Age
+- Employees Remaining
 
-- Attrition across departments and job roles
-- Employee departures by job level
-- Attrition patterns across demographic groups
-- Job satisfaction and work-life balance analysis
-- Age-group comparisons
+2. Employee Attrition Analysis
 
-3. Interactive Exploration
+The dashboard explores employee departures across several dimensions:
 
-- Department, gender, and overtime slicers
-- Synchronized filters across dashboard pages
+- Department
+- Job Role
+- Job Level
+- Gender
+- Job Satisfaction
+- Work-Life Balance
+- Age Group
+- Overtime
+
+3. Interactive Dashboard Experience
+
+- Multi-page report design
+- Interactive department, gender, and overtime slicers
+- Synchronized filters across report pages
 - Multiple visualizations for exploring workforce patterns
+- KPI cards for quick performance monitoring
 
 🖼️ Dashboard Preview
 
@@ -57,40 +68,51 @@ Page 2 — Workforce Attrition Insights
 
 "Employee Attrition Dashboard - Page 2" (dashboard_page2.png)
 
-💡 Key Analytical Focus
+🔍 Business Questions Explored
 
-This project explores questions such as:
+This project investigates questions such as:
 
-- Which departments and job roles account for the most employee departures?
-- How does attrition vary across job levels and age groups?
-- What patterns can be observed across job satisfaction and work-life balance categories?
-- How can interactive dashboards help HR teams investigate workforce trends?
+1. How many employees left the organization?
+2. What proportion of the workforce left?
+3. Which departments and job roles account for the highest number of departures?
+4. How does attrition vary across job levels and age groups?
+5. What patterns appear across job satisfaction and work-life balance categories?
+6. How can interactive dashboards help users explore workforce trends?
 
-Note: Employee departure counts and attrition rates measure different things. Counts identify where departures are concentrated, while rates compare departures with the total employee population in each group.
+💡 Analytical Perspective
+
+Employee departure counts and attrition rates provide different perspectives. Departure counts show where the largest numbers of employees left, while attrition rates compare departures with the total employee population within each group.
+
+Considering both measures can help users avoid misleading comparisons between groups of different sizes.
+
+The dashboard is designed to support exploration of these patterns rather than establish that any single factor causes employees to leave.
 
 🧠 Skills Demonstrated
 
-- Data preparation and transformation
-- Workforce and HR data analysis
-- DAX calculations and KPI development
-- Interactive dashboard design
-- Data storytelling and visual communication
+- Data cleaning and transformation
+- HR analytics and workforce analysis
+- DAX measures and KPI development
+- Data visualization and dashboard design
+- Interactive reporting and filter synchronization
+- Data storytelling
 - Business-oriented analytical thinking
 
 📁 Project Files
 
 File| Description
-"Employee_Attrition_Analysis.pbix"| Interactive Power BI report
-"dashboard_page1.png"| First dashboard screenshot
-"dashboard_page2.png"| Second dashboard screenshot
+"Employee_Attrition_Analysis.pbix"| Power BI report file
+"dashboard_page1.png"| Screenshot of dashboard page 1
+"dashboard_page2.png"| Screenshot of dashboard page 2
 "README.md"| Project documentation
 
 🚀 Conclusion
 
-This project demonstrates how Power BI can be used to transform employee data into an interactive analytical report. It provides a structured view of workforce attrition and supports further investigation into employee retention patterns.
+This project demonstrates the use of Power BI to transform employee data into an interactive HR analytics dashboard. By examining workforce characteristics and employee departures through multiple visual perspectives, the report provides a foundation for investigating attrition patterns and supporting data-informed HR discussions.
 
-The project was developed as part of my Data Analytics portfolio to strengthen my skills in data preparation, analysis, visualization, and dashboard development.
+Developing this project strengthened my practical skills in data preparation, analytical reporting, DAX calculations, and interactive dashboard development as part of my Data Analyst portfolio.
 
 ---
 
-Created using Microsoft Power BI Desktop.
+Tools used: Microsoft Power BI Desktop | Power Query | DAX
+
+Created as a data analytics portfolio project.
