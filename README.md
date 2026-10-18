@@ -1,4 +1,4 @@
-Here is the complete, single, unified README.md documentation for your repository:
+
 # 📊 Employee Attrition Analysis Dashboard | Power BI
 
 > **Turning HR & Employee Data into Actionable Workforce Insights**
